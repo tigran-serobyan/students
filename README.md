@@ -10,7 +10,9 @@ In the project directory run:
 
 ## How to start
 
-In the project directory, you can run:
+In the project directory, you can run run:
 
 ### `npm start:server`
 ### `npm start:client`
+
+Open aplication at [localhost:3000](http://localhost:3000)
