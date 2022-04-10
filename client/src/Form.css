@@ -1,0 +1,35 @@
+.inputDiv {
+    padding: 0.5vw 0;
+}
+
+.inputDiv label {
+    display: block;
+    font-weight: 600;
+}
+
+.inputDiv input {
+    border: solid 1px #333;
+    padding: 0.5em;
+    font-weight: 300;
+}
+
+.inputDiv button {
+    border: none;
+    background: #075684;
+    color: white;
+    padding: 0.8em;
+    margin: 1.5em 0;
+    text-decoration: none;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.inputDiv button:hover {
+    background: #044165;
+}
+
+.inputDiv button:disabled {
+    background: #666;
+    color: #ddd;
+    cursor: unset;
+}
